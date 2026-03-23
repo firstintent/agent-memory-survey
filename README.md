@@ -30,6 +30,7 @@ AI Agent 记忆系统全景调研 — 独立记忆框架 + Agent 自带记忆，
 | [cli-integration.md](cli-integration.md) | Claude Code & Codex CLI 集成实战 |
 | [selection-guide.md](selection-guide.md) | 按场景选型建议 |
 | [self-build-guide.md](self-build-guide.md) | 🔥 自研记忆系统完整建议 |
+| [future-proof.md](future-proof.md) | 🔮 LLM增强后哪些记忆会失效？哪些值得长期投入？ |
 | [builtin-comparison.md](builtin-comparison.md) | Agent 自带记忆横向对比 |
 | [references.md](references.md) | 论文/博客/X帖/awesome-list |
 
