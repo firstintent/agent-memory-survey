@@ -13,6 +13,7 @@ AI Agent 记忆系统全景调研 — 独立记忆框架 + Agent 自带记忆，
 | 🥉 | [Letta](projects/letta.md) | CLI实用王, /remember | — | ~21.6k |
 | 4 | [Mem0](projects/mem0.md) | 老将, 图+向量 | 49% | ~50.2k |
 | 5 | [Zep](projects/zep.md) | 时序图谱, "旧时代"参照 | 71% | ~4.2k |
+| 🔌 | [Claude-Mem](projects/claude-mem.md) | Claude Code插件, AI压缩+混合检索 | — | ~39.7k |
 | 🆕 | [RetainDB](projects/retaindb.md) | 88% preference recall | 88%* | — |
 | 🆕 | [Memento](projects/memento.md) | 无微调持续学习 | — | ~2.2k |
 
@@ -50,6 +51,7 @@ AI Agent 记忆系统全景调研 — 独立记忆框架 + Agent 自带记忆，
 | T2 | [Google Always-On](projects/google-always-on.md) | LLM-Native+SQLite | — |
 | T3 新星 | [RetainDB](projects/retaindb.md) | 88% SOTA | — |
 | T3 新星 | [Memento](projects/memento.md) | 持续学习 | ~2.2k |
+| CC插件 | [Claude-Mem](projects/claude-mem.md) | AI压缩+混合检索 | ~39.7k |
 | CLI工具 | [memory-bridge](projects/memory-bridge.md) | CLI记忆同步 | — |
 | CLI工具 | [claude-subconscious](projects/claude-subconscious.md) | Letta→Claude注入 | ~862 |
 

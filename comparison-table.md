@@ -16,6 +16,7 @@
 | **Hindsight** | ~5.6k | MIT | 时序图谱 | E,S,W | 混合 | 向量+BM25+图+时间 | ✅推荐 | 91.4% | 本地 | Beta |
 | **Zep** | ~4.2k | 开源 | 时序知识图谱 | E,S | 图DB | 图+向量 | ⚠️理论可接 | 71% | 本地/云 | Beta |
 | **SimpleMem** | ~2.8k | 开源 | 语义压缩 | E,S | 压缩存储 | 意图感知 | ❌ | LoCoMo+26.4% | 本地 | 研究 |
+| **Claude-Mem** | ~39.7k | AGPL-3.0 | Hook+AI压缩 | E,S,W | SQLite+Chroma | 混合(关键词+语义) | ✅Claude插件 | — | 本地 | 生产 |
 | **Memento** | ~2.2k | 开源 | 持续学习 | E,S | — | — | ❌ | — | — | 研究 |
 | **claude-subconscious** | ~862 | MIT | Letta注入 | E,S | Letta后端 | Letta检索 | ✅Claude专用 | — | 本地 | Beta |
 | **SuperLocalMemory** | — | 开源 | 信息几何 | E,S | 本地文件 | 向量+BM25 | ⚠️MCP | 74.8%(local) | 纯本地 | Beta |
